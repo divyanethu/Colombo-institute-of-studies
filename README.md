@@ -1,2 +1,2 @@
 # Colombo-institute-of-studies
-my firs software project in java
+my first software project in java
